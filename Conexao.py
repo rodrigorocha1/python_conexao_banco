@@ -9,8 +9,8 @@ class Conexao:
             con = pdb.connect(
                 database="teste_python",
                 user="postgres",
-                password="1a2s3d",
-                host="127.0.0.1",
+                password="",
+                host="",
                 port="5432"
             )
 
